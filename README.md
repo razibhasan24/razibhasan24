@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love coding.
 
  About me
+ 
 I love to work with web development. It includes everything from designing user interfaces to building backend systems and managing databases. Web development is not just about writing code — it's about turning ideas into real, interactive websites that help people and businesses. I work with both front-end tools like HTML, CSS, JavaScript, and React,and back-end technologies like PHP,Laravel, and MySQL. As a full-stack developer, I enjoy solving problems and creating smooth, fast, and useful web applications. In today’s digital world, a good website is essential — and I’m passionate about building them with care and purpose.
 
 # 💻 Tech Stack:
