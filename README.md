@@ -1,6 +1,7 @@
 # Hi there 👋
 ## My name is Razib Hasan
 
+![My Banner](https://media.licdn.com/dms/image/v2/D4E16AQGfU7jmSZXfZw/profile-displaybackgroundimage-shrink_350_1400/B4EZiEV5lnGwAc-/0/1754566992137?e=1763596800&v=beta&t=UGzBUoZuxEUCPLrZDYUCdEhvUxUfg7rcxulOznYYqEQ)
 
 **razibhasan24/razibhasan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
