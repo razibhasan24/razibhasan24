@@ -1,5 +1,5 @@
 # Hi there 👋
-## my name is Razib Hasan
+## My name is Razib Hasan
 
 
 **razibhasan24/razibhasan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on web development 
 - 🤔 I’m looking for help with web development 
 - 💬 Ask me about full stack web development 
-- 📫 How to reach me: protfolio:http://razib.intelsofts.com/
+- 📫 How to reach me: protfolio-1: http://razib.intelsofts.com/
+- 📫 How to reach me: protfolio-2: https://razib.free.nf/portfolio/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love coding.
 
